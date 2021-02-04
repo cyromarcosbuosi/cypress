@@ -10,7 +10,8 @@
 
 <h2> Rodando os testes </h2>
 <ul>
-  <li>para abrir a interface visual do Cypress, no terminal do projeto rode o comando <b>./nome_modules/.bin/cypress open</b></li>
+  <li>Para abrir a interface visual do Cypress, no terminal do projeto rode o comando <b>./nome_modules/.bin/cypress open</b></li>
+  <li>Na interface visual, selecione os testes que quer rodas :)
 </ul>
 
 
